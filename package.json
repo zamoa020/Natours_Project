@@ -1,0 +1,14 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "landing page for natour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zakaria",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.70.0"
+  }
+}
